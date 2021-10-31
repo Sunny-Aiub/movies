@@ -54,7 +54,7 @@ extension SearchViewController {
 
         let searchBar = UISearchBar()
         searchBar.delegate = self
-        searchBar.placeholder = "Search movies"
+        searchBar.placeholder = "type movie name and press search button in keyboard"
         searchBar.tintColor = .red
         navigationItem.titleView = searchBar
         self.searchBar = searchBar
