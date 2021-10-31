@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_MoviestVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_MoviestVersionString[];
+FOUNDATION_EXPORT double Pods_MoviesVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_MoviesVersionString[];
 
